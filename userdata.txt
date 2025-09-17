@@ -1,1 +1,2 @@
 This file design to store the user data.
+user1 passward 123456
